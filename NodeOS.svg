@@ -3,6 +3,7 @@
    xmlns="http://www.w3.org/2000/svg"
    width="56cm"
    height="60cm"
+   shape-rendering="crispEdges"
    viewBox="-2 -2 1113 1189">
   <polygon
      style="fill:#0000aa"
